@@ -10,8 +10,4 @@
     <ProjectReference Include="..\HR.LeaveManagement.Domains\HR.LeaveManagement.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Profiles\" />
-  </ItemGroup>
-
 </Project>
